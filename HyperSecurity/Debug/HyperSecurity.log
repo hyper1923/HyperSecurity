@@ -1,0 +1,3 @@
+﻿  HyperSecurity.cpp
+C:\Users\hyper1923\source\repos\HyperSecurity\HyperSecurity\HyperSecurity.cpp(47,7): warning C4101: 'c': yerel değişken başvurusu kaldırıldı
+  HyperSecurity.vcxproj -> C:\Users\hyper1923\source\repos\HyperSecurity\Debug\HyperSecurity.exe
